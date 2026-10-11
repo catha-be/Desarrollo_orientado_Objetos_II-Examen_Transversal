@@ -27,6 +27,6 @@ Aplicación de escritorio en Java (Swing/JFrame + JDBC + MySQL). Examen Final Tr
 | Rol | Usuario | Contraseña |
 |---|---|---|
 | Bibliotecario | antonia@correo.cl | clave123 |
-| Estudiante | carlos@correo.cl | clave123 |
+| Estudiante | carlos@correo.cl | 987654321 |
 
 Se puede ingresar con correo o RUT. Los estudiantes nuevos reciben una cuenta con su RUT como clave inicial (guardada como SHA-256; el login acepta contraseñas en texto plano o SHA-256).
